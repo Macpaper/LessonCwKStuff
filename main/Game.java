@@ -4,6 +4,9 @@ import javax.swing.JFrame;
 
 public class Game {
 
+	public void noo() {
+		
+	}
 	public static void main(String[] args) {
 		JFrame f = new JFrame("completely new game");
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
