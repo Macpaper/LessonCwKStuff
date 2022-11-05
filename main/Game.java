@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 public class Game {
 
 	public void noo() {
-		
+		System.out.println("stilly");
 	}
 	public static void main(String[] args) {
 		JFrame f = new JFrame("completely new game");
